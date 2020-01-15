@@ -48,6 +48,7 @@
 | Dillon Hector     | Section 003      | dhector3              | < https://dhector3.github.io/dhect3/>
 | Jared Cao         | Section 003      | jkc5781               | <https://jkc5781.github.io/github-practice/>   |
 | Lily Jakielaszek  | Section 004      | LilySJakielaszek     |  <https://lilysjakielaszek.github.io/Assignment1/> |
+| Penghao Zeng      | Section 003      | Carina920             | <https://Carina920.github.io/STAT-184>    | 
 
 
 <br>
